@@ -1,0 +1,22 @@
+{
+    "app_name": "CICD Advanced App",
+    "app_version": "0.0.1",
+    "created_at_ms": 1738837609000,
+    "deployed_solution_id": "6faa66d0-2f70-4e14-81fe-06b9c8626455",
+    "description": "",
+    "human_review_level": "doc_based",
+    "human_review_mode": "ON",
+    "id": "0194dacc-4b19-7682-9788-0334c3b76d42",
+    "last_run_job_id": null,
+    "last_run_status": null,
+    "last_run_timestamp_ns": null,
+    "metric_alerts": null,
+    "name": "CICD Advanced App",
+    "notification_emails": null,
+    "owner": "vinay.thapa_instabase.com",
+    "review_within_sec": null,
+    "state": "ACTIVE",
+    "updated_at_ms": 1738837609000,
+    "webhooks": null,
+    "workspace": "CI-CD"
+}
