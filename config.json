@@ -1,0 +1,25 @@
+{
+  "source": {
+    "is_advanced": true, 
+    "project_id": "",
+    "flow_path": "SolEng/CI-CD/fs/Instabase Drive/CICD/AdvancedApp/AdvancedApp.ibflow",
+    "sb_name": "",
+    "flow_name": "",
+    "org": "SolEng",
+    "workspace": "CI-CD",
+    "app_id": "6faa66d0-2f70-4e14-81fe-06b9c8626455",
+    "deployment_id": "0194dacc-4b19-7682-9788-0334c3b76d42",
+    "dependencies": [""]
+  },
+  "target": {
+    "org": "SolEng",
+    "workspace": "CI-CD"
+  },
+  "settings": {
+    "rebuild": false
+  },
+  "testing": {
+    "regression": {}
+  },
+  "release_notes": "CICD"
+}

@@ -1,0 +1,23 @@
+{
+    "appReleaseVersion": "24.50",
+    "author": "vinay.thapa_instabase.com",
+    "createdAtMs": "1738837605000",
+    "description": "initial version\n",
+    "id": "6faa66d0-2f70-4e14-81fe-06b9c8626455",
+    "isCustomizable": false,
+    "linkSharingMode": "OFF",
+    "metadata": "{\"authors\": [\"vinay.thapa_instabase.com\"], \"icon\": \"icon.png\", \"samples\": \"\", \"results\": \"\", \"schema\": \"schema.json\", \"is_advanced\": true, \"billing_model\": \"default\"}",
+    "name": "CICD Advanced App",
+    "owner": "instabase",
+    "sharedAccounts": [
+        "SolEng"
+    ],
+    "solutionType": "EXTRACTION",
+    "solution_path": "system/global/fs/Instabase Drive/Applications/Deployed/All/6faa66d0-2f70-4e14-81fe-06b9c8626455",
+    "state": "ACTIVE",
+    "summary": "Advanced app to extract details from Resume and Payslip",
+    "updateMode": "UPDATE_WHEN_EXPIRED",
+    "updatedAtMs": "1738837605000",
+    "version": "0.0.1",
+    "visibility": "PRIVATE"
+}
